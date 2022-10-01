@@ -1,2 +1,2 @@
 install:
-  cp *.sh /usr/local/bin
+	cp *.sh /usr/local/bin/
