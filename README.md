@@ -1,6 +1,6 @@
-# k8s-tools
+# amoniac-admin-tools
 
-Collection of usable scripts for manage k8s.
+Collection of usable scripts for manage k8s, wireguard, etc.
 
 ## Installation
 
